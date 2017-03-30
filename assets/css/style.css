@@ -1,0 +1,89 @@
+* {
+   cursor: url('../images/bumble.gif-c200');
+}
+
+html {
+background: url("../images/space.gif") no-repeat center center fixed;
+-webkit-background-size: cover;
+-moz-background-size: cover;
+-o-background-size: cover;
+background-size: cover;
+}
+
+
+canvas {
+  width: 800px;
+  height: 500px;
+  display: none;
+  margin: 0 auto;
+  border-radius: 10px;
+  border: 3px solid blue;
+}
+
+#title {
+
+  align-items: center;
+}
+.introwrapper {
+  margin: 400px auto;
+  width: 500px;
+  height: 70%;
+}
+
+#logo {
+  width: 150px;
+  height: 150px;` `
+  display: block;
+  margin: 0 auto;
+  background: url("../images/Logo.gif") no-repeat center center;
+}
+
+#start {
+  max-width: 300px;
+  text-align: center;
+  font-family: 'Fascinate Inline', cursive;
+  font-size: 38px;
+  background-color: grey;
+  border-radius: 20px;
+  margin: 0 auto;
+}
+
+#intro {
+  max-width: 300px;
+  text-align: center;
+  font-family: 'Orbitron', sans-serif;
+  font-size: 20px;
+  background-color: grey;
+  border-radius: 20px;
+  margin: 0 auto;
+}
+
+#win1 {
+  font-size: 38px;
+  display: none;
+  max-width: 300px;
+  font-family: 'Orbitron', sans-serif;
+  background-color: grey;
+  border-radius: 20px;
+  margin: 300px auto;
+  text-align: center;
+}
+
+#win2 {
+  font-size: 38px;
+  display: none;
+  max-width: 300px;
+  font-family: 'Orbitron', sans-serif;
+  background-color: grey;
+  border-radius: 20px;
+  margin: 300px auto;
+  text-align: center;
+}
+
+.retry:hover {
+  color: white;
+}
+
+#start:hover {
+  color: white;
+}

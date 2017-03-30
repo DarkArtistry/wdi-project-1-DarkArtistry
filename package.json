@@ -1,7 +1,5 @@
 {
   "standard": {
-    "globals": {
-      "$" "alert"
-    }
+    "globals": [ "$" , "alert"]
   }
 }

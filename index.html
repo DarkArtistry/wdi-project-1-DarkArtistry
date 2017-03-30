@@ -2,14 +2,39 @@
 <html>
   <head>
     <meta charset="utf-8">
-    <title></title>
+<link href="https://fonts.googleapis.com/css?family=Fascinate+Inline|Orbitron" rel="stylesheet">
+    <link rel="stylesheet" href="assets/css/style.css">
+    <title>Transformers War Zone</title>
   </head>
   <body>
-    <h1>My Unit 1 Game</h1>
-    <div>
-    </div>
-    <script type="text/javascript" src="./assets/js/script.js">
 
+    <div id="title">
+    <img src="assets/images/LogoTrans.png" alt="">
+    <img src="assets/images/OptimusP.gif" alt="OptimusP"id="OP">
+    <img src="assets/images/Starscream.gif" alt="OptimusP"id="SS">
+    <img src="assets/images/bumble.gif-c200" width="50px" height="50px">
+    </div>
+
+    <canvas id="canvas" width="800" height="500"></canvas>
+
+    <div class="introwrapper">
+      <div id="logo"></div>
+      <div id="intro">Optimus Prime and Starscream plan to settle their scores with a game of Dodge the Disco Meteor!</div>
+      <div id="start">Let's Roll Out</div>
+    </div>
+
+    <div id='win1'>
+      <div>Starscream got hit !</div>
+      <div class="retry">Retry</div>
+    </div>
+
+    <div id='win2'>
+        <div>Optimus Prime got hit !</div>
+        <div class="retry">Retry</div>
+    </div>
+    <audio src="assets/sound/neyo-because-of-you.mp3">
+    </audio>
+    <script type="text/javascript" src="assets/js/script.js">
     </script>
   </body>
 </html>
