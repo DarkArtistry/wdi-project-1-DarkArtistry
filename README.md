@@ -3,7 +3,7 @@
 
 # Autobots, Dodge the Disco Balls!
 
-[Dodge the Disco Balls!](http://i.imgur.com/coPI7be.png)
+![Dodge the Disco Balls!](http://i.imgur.com/coPI7be.png)
 
 [Play here](https://wdi-sg.github.io/wdi-project-1-DarkArtistry/)
 
