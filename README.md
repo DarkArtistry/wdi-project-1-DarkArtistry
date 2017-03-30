@@ -5,7 +5,7 @@
 
 [Dodge the Disco Balls!](http://i.imgur.com/coPI7be.png)
 
-[Play here](https://www.google.com)
+[Play here](https://wdi-sg.github.io/wdi-project-1-DarkArtistry/)
 
 Time to relax with some POP-music and game. Dodge the Disco Balls, a 2 player game where you try avoiding the ramping disco balls.
 
